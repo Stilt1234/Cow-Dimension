@@ -1,0 +1,20 @@
+{
+  {
+    "format_version": 2,
+    "header": {
+      "description": "Resource Pack for Cow Dimension",
+      "name": "Cow Dimension Resource Pack",
+      "uuid": "56372a52-d698-461e-9fe9-b425a43592c3",
+      "version": [ 1, 0, 0 ],
+      "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+      {
+        "description": "My First Add-On!",
+        "type": "resources",
+        "uuid": "c0b28c4f-8dd3-4f50-b8ce-5d25e7b081c7",
+        "version": [ 1, 0, 0 ]
+      }
+    ]
+  }
+}
